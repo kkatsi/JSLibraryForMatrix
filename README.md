@@ -12,4 +12,4 @@ Range
 Variance
 StdDev (Standard Deviation)
 
-Check and example live [here](https://kkatsi.github.io/JSLibraryForMatrix/).
+Check an example live [here](https://kkatsi.github.io/JSLibraryForMatrix/index.html).
