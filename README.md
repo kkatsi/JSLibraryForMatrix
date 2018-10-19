@@ -16,4 +16,4 @@ StdDev (Standard Deviation)
 Every change of a number will automatically update functions result.
 
 index.html is an example code of random table containing only numbers. Putting 'UomTable' as table's class name will apply all js changes on it.
-Check an example live [here](https://kkatsi.github.io/JSLibraryForMatrix/).
+Check an example live [here](https://kkatsi.github.io/JSLibraryForMatrix/index.html).
